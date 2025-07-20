@@ -1,4 +1,4 @@
-# 𝐒elenium Automation Testing🧪
+# 𝐒elenium Auto. Testing🧪
 
 Welcome to the ultimate Selenium Automation Testing course repository!  
 This repo covers everything from the basics of Java and Selenium to advanced frameworks like TestNG, Maven, Jenkins, and more.
